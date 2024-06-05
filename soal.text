@@ -1,0 +1,15 @@
+Pengolahan Data:
+
+Baca dataset ke dalam sebuah DataFrame menggunakan Pandas.
+Ubah kolom Tanggal menjadi tipe data datetime.
+Tambahkan kolom baru Total_Penjualan yang merupakan hasil dari Jumlah dikali Harga.
+Analisis Data:
+
+Hitung total pendapatan yang dihasilkan oleh toko tersebut selama satu tahun.
+Temukan produk dengan jumlah penjualan tertinggi.
+Hitung total pendapatan bulanan dan tampilkan dalam bentuk tabel.
+Buat visualisasi tren penjualan bulanan dalam bentuk grafik garis.
+Insight Data:
+
+Identifikasi bulan dengan pendapatan tertinggi dan rendah.
+Berikan saran untuk meningkatkan penjualan berdasarkan hasil analisis Anda.
